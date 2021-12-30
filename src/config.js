@@ -1,13 +1,13 @@
 export const config = {
-    RPC_URL: 'https://rpc.streampay.omniflix.network',
-    REST_URL: 'https://rest.streampay.omniflix.network',
+    RPC_URL: 'https://hatlas.rpc.hazlor.com',
+    REST_URL: 'https://api.hazlor.com',
     FAUCET_URL: 'https://api.testnet-faucet.omniflix.network',
-    CHAIN_ID: 'streampay-1',
-    CHAIN_NAME: 'Stream Pay Testnet',
-    COIN_DENOM: 'SPAY',
-    COIN_MINIMAL_DENOM: 'uspay',
+    CHAIN_ID: 'hazlor_7878-1',
+    CHAIN_NAME: 'Hazlor Pay Testnet',
+    COIN_DENOM: 'TSCAS',
+    COIN_MINIMAL_DENOM: 'atscas',
     COIN_DECIMALS: 6,
-    PREFIX: 'streampay',
+    PREFIX: 'tscas',
 };
 
 export const chainId = config.CHAIN_ID;

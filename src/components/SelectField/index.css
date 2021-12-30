@@ -4,13 +4,13 @@
 }
 
 .select_field .select__control {
-    background: #141414;
-    border: 2px solid #141414;
+    background: #050b17;
+    border: 2px solid #050b17;
     box-shadow: unset;
 }
 
 .select_field .select__control:hover {
-    border: 2px solid #141414;
+    border: 2px solid #050b17;
 }
 
 .select_field .select__value-container {
@@ -54,7 +54,7 @@
 
 .select_field .select__option,
 .select_field .select__menu-notice--no-options {
-    background: #141414 !important;
+    background: #050b17 !important;
     padding: 14px 22px;
     text-align: left;
     font-family: 'Source Sans Pro', sans-serif;

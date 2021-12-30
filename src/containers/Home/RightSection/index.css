@@ -4,7 +4,7 @@
 }
 
 .create_payment.disabled_create_payment .text_field > div {
-    background: #141414;
+    background: #050b17;
     color: #696969;
 }
 
@@ -99,7 +99,7 @@
 }
 
 .create_payment .type_actions {
-    background: #141414;
+    background: #050b17;
     border-radius: 5px;
     padding: 10px 20px;
     width: 100%;
@@ -148,9 +148,9 @@
 
 .create_payment .end_date > div {
     width: 100%;
-    background: #141414;
+    background: #050b17;
     color: #696969;
-    border: 1px solid #141414;
+    border: 1px solid #050b17;
     height: 50px;
     border-radius: 5px;
 }

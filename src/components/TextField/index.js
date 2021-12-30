@@ -25,9 +25,9 @@ const MuiTextField = styled((props) => (
         padding: '12px 20px',
     },
     '& .MuiFilledInput-root': {
-        background: '#141414',
+        background: '#050b17',
         color: '#696969',
-        border: '1px solid #141414',
+        border: '1px solid #050b17',
         borderRadius: '5px',
         '&.Mui-focused': {
             border: '1px solid #3F5A6F',

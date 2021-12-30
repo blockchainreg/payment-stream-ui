@@ -53,7 +53,7 @@
 }
 
 .left_section .stream_tab.active_tab .text {
-    background: linear-gradient(89.99deg, #FB818B 0.42%, #558CEF 104.54%);
+    background: linear-gradient(89.99deg, #00a8cc 0.42%, #00a8cc 104.54%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
@@ -65,7 +65,7 @@
 
 .left_section .stream_tab.active_tab .border_bottom {
     display: block;
-    background: linear-gradient(89.99deg, #FB818B 0.42%, #558CEF 104.54%);
+    background: linear-gradient(89.99deg, #00a8cc 0.42%, #00a8cc 104.54%);
     width: 90px;
     height: 3px;
     top: 45px;
@@ -74,7 +74,7 @@
 
 /* Card Css */
 .stream_card {
-    background: #141414;
+    background: #050b17;
     border-radius: 20px;
     padding: 30px;
     margin-top: 20px;
@@ -246,7 +246,7 @@
 .stream_card .tokens_section.open_stream:before {
     content: "";
     position: absolute;
-    background: #141414;
+    background: #050b17;
     top: 0;
     left: 0;
     width: 100%;

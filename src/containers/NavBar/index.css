@@ -3,7 +3,7 @@
     width: 100%;
     top: 0;
     z-index: 10;
-    background: #141414;
+    background: #050b17;
 }
 
 .nav_bar {
@@ -60,7 +60,7 @@
 }
 
 .profile .profile_section:hover {
-    background: #141414;
+    background: #050b17;
 }
 
 .profile_section > img {
@@ -99,7 +99,7 @@
 .profile .profile_section:before {
     content: '';
     position: absolute;
-    background: #141414;
+    background: #050b17;
     top: 0;
     left: 0;
     width: 100%;
